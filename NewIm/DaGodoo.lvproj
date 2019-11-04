@@ -118,7 +118,6 @@ AddOutputFilter chunkFilter
 		<Item Name="redLocation.vi" Type="VI" URL="../redLocation.vi"/>
 		<Item Name="regBoxnCube.vi" Type="VI" URL="../regBoxnCube.vi"/>
 		<Item Name="saveImage.vi" Type="VI" URL="../saveImage.vi"/>
-		<Item Name="testMaster.vi" Type="VI" URL="../testMaster.vi"/>
 		<Item Name="yellowLocation.vi" Type="VI" URL="../yellowLocation.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
