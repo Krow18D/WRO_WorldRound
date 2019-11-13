@@ -109,7 +109,6 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="blueLocation.vi" Type="VI" URL="../blueLocation.vi"/>
-		<Item Name="findBox.vi" Type="VI" URL="../findBox.vi"/>
 		<Item Name="GlobalVariable.vi" Type="VI" URL="../GlobalVariable.vi"/>
 		<Item Name="greenLocation.vi" Type="VI" URL="../greenLocation.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
